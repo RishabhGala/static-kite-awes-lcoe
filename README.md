@@ -1,4 +1,4 @@
-# kite-lcoe
+# static-kite-awes-lcoe
 
 **Optimizing Static-Kite AWES Models for Individual Locations to Minimize LCOE**
 
